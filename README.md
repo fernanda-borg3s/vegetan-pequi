@@ -27,5 +27,5 @@ cd vegetan-pequi
 ```
 Ou visualizar online por meio do link:
 ```bash
-https://github.com/fernanda-borg3s/vegetan-pequi.git
+https://fernanda-borg3s.github.io/vegetan-pequi/
 ```
